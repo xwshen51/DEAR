@@ -49,7 +49,7 @@ Generative model:
 Supervised regularizer:
   --sup_coef          		coefficient of the supervised regularizer
   --sup_prop          		proportion of supervised labels
-  --sup_type {ce, l2}     type of the supervised loss
+  --sup_type {ce, l2}       type of the supervised loss
 
 Dataset:
   --dataset          		name of the data
