@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from torchvision import datasets, transforms
 from torch.utils.data import TensorDataset, DataLoader
-
+from PIL import Image
 import os
 
 
