@@ -3,6 +3,7 @@
 This repository contains the code for the paper [*Disentangled Generative Causal Representation Learning*](https://arxiv.org/abs/2010.02637).
 
 ## Model
+![alt text](./assets/model.pdf)
 
 ## Install prerequisites
 ```
@@ -49,12 +50,21 @@ Generative model:
 Supervised regularizer:
   --sup_coef          		coefficient of the supervised regularizer
   --sup_prop          		proportion of supervised labels
-  --sup_type {ce, l2}       type of the supervised loss
+  --sup_type {ce, l2}		type of the supervised loss
 
 Dataset:
   --dataset          		name of the data
   --data_dir          		directory of the dataset
 ```
+
+## Results
+
+CelebA:
+![alt text](./assets/trav_celeba_smile_cap_.pdf)
+
+Pendulum:
+![alt text](./assets/trav_pend_cap.pdf)
+
 
 ## Contact information
 If you meet any problems with the code, please submit an issue or contact Xinwei Shen (`xinwei.shen@connect.ust.hk`).
