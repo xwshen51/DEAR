@@ -3,7 +3,7 @@
 This repository contains the code for the paper [*Disentangled Generative Causal Representation Learning*](https://arxiv.org/abs/2010.02637).
 
 ## Model
-![alt text](./assets/model.pdf)
+![alt text](./assets/model.png)
 
 ## Install prerequisites
 ```
@@ -60,10 +60,10 @@ Dataset:
 ## Results
 
 CelebA:
-![alt text](./assets/trav_celeba_smile_cap_.pdf)
+![alt text](./assets/trav_celeba_smile_cap_.png)
 
 Pendulum:
-![alt text](./assets/trav_pend_cap.pdf)
+![alt text](./assets/trav_pend_cap.png)
 
 
 ## Contact information
