@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Datasets
 - [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
-- [Pendulum](https://drive.google.com/file/d/1FVJ0MJKUplkyBdD__bUEaqDoIMg_KnAC/view?usp=sharing): the dataset is generated based on the source code from [this repository](https://github.com/huawei-noah/trustworthyAI/blob/master/Causal_Disentangled_Representation_Learning/causal_data/pendulum.py).
+- [Pendulum](https://drive.google.com/file/d/1lcd4E4voxpPIbeGSjsJCkJteVUfJpprB/view?usp=sharing): the dataset is generated based on the source code from [this repository](https://github.com/huawei-noah/trustworthyAI/blob/master/research/CausalVAE/causal_data/pendulum.py).
 
 ## Run
 
