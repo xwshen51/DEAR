@@ -1,6 +1,6 @@
-# Disentangled Generative Causal Representation Learning
+# Weakly Supervised Disentangled Generative Causal Representation Learning
 
-This repository contains the code for the paper [*Disentangled Generative Causal Representation Learning*](https://arxiv.org/abs/2010.02637).
+This repository contains the code for the paper [*Weakly Supervised Disentangled Generative Causal Representation Learning*](https://arxiv.org/abs/2010.02637) published at JMLR.
 
 ## Model
 ![alt text](./assets/model.png)
@@ -72,10 +72,14 @@ If you meet any problems with the code, please submit an issue or contact Xinwei
 ## Citation
 If you would refer to or extend our work, please cite the following paper:
 ```
-@article{shen2020disentangled,
-  title={Disentangled generative causal representation learning},
-  author={Shen, Xinwei and Liu, Furui and Dong, Hanze and Lian, Qing and Chen, Zhitang and Zhang, Tong},
-  journal={arXiv preprint arXiv:2010.02637},
-  year={2020}
+@article{JMLR:v23:21-0080,
+  author  = {Xinwei Shen and Furui Liu and Hanze Dong and Qing Lian and Zhitang Chen and Tong Zhang},
+  title   = {Weakly Supervised Disentangled Generative Causal Representation Learning},
+  journal = {Journal of Machine Learning Research},
+  year    = {2022},
+  volume  = {23},
+  number  = {241},
+  pages   = {1--55},
+  url     = {http://jmlr.org/papers/v23/21-0080.html}
 }
 ```
