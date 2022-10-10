@@ -1,6 +1,6 @@
 # Weakly Supervised Disentangled Generative Causal Representation Learning
 
-This repository contains the code for the paper [*Weakly Supervised Disentangled Generative Causal Representation Learning*](https://arxiv.org/abs/2010.02637) published at JMLR.
+This repository contains the code for the paper [*Weakly Supervised Disentangled Generative Causal Representation Learning*](https://www.jmlr.org/papers/volume23/21-0080/21-0080.pdf) published at JMLR.
 
 ## Model
 ![alt text](./assets/model.png)
